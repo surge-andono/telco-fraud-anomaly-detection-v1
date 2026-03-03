@@ -1,0 +1,15 @@
+# Data Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning & Analytics: untuk algoritma Isolation Forest & Scaling data
+scikit-learn>=1.2.0
+scipy>=1.10.0
+
+# Visualization (Dashboard Fraud)
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utils
+python-dotenv>=1.0.0
